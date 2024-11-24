@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8fbfd9ccb9a854428f23b40928c0258, type: 3}
+  m_Name: Level_good_ending
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - characterName: Alice
+    text: Emrys, what do you mean?
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 0}
+  - characterName: Alice
+    text: Why there is this poster?
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 0}
+  - characterName: Alice
+    text: Why there is this collar either?
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 0}
+  - characterName: Emrys
+    text: Before we proceed, please, calm down Alice.
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}
+  - characterName: Emrys
+    text: "You really a forgetful person didn\u2019t you?"
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}
+  - characterName: Emrys
+    text: Nora is long gone.
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}
+  - characterName: Emrys
+    text: I know you always remember that day.
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}
+  - characterName: Emrys
+    text: "That day when Nora goes feral and you chasing him until it end up\u2026.here."
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}
+  - characterName: Emrys
+    text: I know that was fast but..
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}
+  - characterName: Alice
+    text: Yeah, that was fast.
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}
+  - characterName: Alice
+    text: "But i can\u2019t forget that and i trying to forget it."
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}
+  - characterName: Emrys
+    text: You should know Alice, you have win the game.
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}
+  - characterName: Emrys
+    text: You never counting on me to search those things.
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}
+  - characterName: Emrys
+    text: You face your fear alone. Such a strong soul.
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}
+  - characterName: Emrys
+    text: "I\u2019m not supposed to say this but, you should move on Alice."
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}
+  - characterName: Emrys
+    text: "You don\u2019t need to try it so hard, just let it flow, would you?"
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}
+  - characterName: Alice
+    text: Thanks. For a dreadful demon like you, you seem friendly.
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}
+  - characterName: Emrys
+    text: "I\u2019m just admire the champion."
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}
+  - characterName: Emrys
+    text: "Well, i don\u2019t have any contract again here. Farewell Alice, nice
+      to play with you."
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}
+  - characterName: Emrys
+    text: May you find your worth in the waking world.
+    characterSprite1: {fileID: 21300000, guid: 3a7e4fb3b7f91ac4786b268a648335c3, type: 3}
+    characterSprite2: {fileID: 589225159, guid: 1fb17dc949e18ef4aa8929cedd3febc9, type: 3}

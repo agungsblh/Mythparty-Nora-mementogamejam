@@ -1,0 +1,10 @@
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Logs/
+.vs/
+*.png
+*.jpg
+*.meta
+*.wav
